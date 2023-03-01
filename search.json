@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "About courses\ncancer course\ngenetics course\nmicrobiome course"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About us at Wellcome Connecting Science\nadding content here\npineapple\ncorn\npopcorn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WCS Resources",
+    "section": "",
+    "text": "Wellcome Connecting Science develops courses for genomics and bioinformatics training.\nthis is content\ngiraffe rhino"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "About resources\nYour digital mentor podcast\ncool podcast\nHow to VM"
+  }
+]
